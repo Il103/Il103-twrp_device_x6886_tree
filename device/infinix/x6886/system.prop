@@ -1,0 +1,3 @@
+# System properties for Infinix Hot 60 Pro Plus
+ro.product.board=MT6789
+ro.board.platform=mt6789
