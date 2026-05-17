@@ -1,0 +1,3 @@
+# TWRP Flags for x6886
+export TW_DEVICE_VERSION=0_x6886
+export TW_MAINTAINER="CraveBot"
