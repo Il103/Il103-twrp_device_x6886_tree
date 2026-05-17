@@ -1,0 +1,5 @@
+PRODUCT_MAKEFILES := \\
+    $(LOCAL_DIR)/x6886.mk
+
+COMMON_LUNCH_CHOICES := \\
+    x6886-eng
